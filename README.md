@@ -1,4 +1,4 @@
-# Adreno 610 Driver OpenGL ES 3.2V 415.0 Vulkan 1.1 
+# Adreno 610 Driver OpenGL ES 3.2V@415.0 Vulkan 1.1 
 <h3> Date:12-15-2020</h3>
 Tested on willow with Custom ROM
 
